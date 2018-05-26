@@ -10,7 +10,7 @@
 	"compileType": "game",
 	"libVersion": "game",
 	"appid": "touristappid",
-	"projectname": "moon-river",
+	"projectname": "quickstart",
 	"condition": {
 		"search": {
 			"current": -1,
